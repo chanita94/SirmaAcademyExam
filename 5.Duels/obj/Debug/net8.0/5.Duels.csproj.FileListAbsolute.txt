@@ -1,0 +1,14 @@
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Duels\bin\Debug\net8.0\5.Duels.exe
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Duels\bin\Debug\net8.0\5.Duels.deps.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Duels\bin\Debug\net8.0\5.Duels.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Duels\bin\Debug\net8.0\5.Duels.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Duels\bin\Debug\net8.0\5.Duels.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Duels\obj\Debug\net8.0\5.Duels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Duels\obj\Debug\net8.0\5.Duels.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Duels\obj\Debug\net8.0\5.Duels.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Duels\obj\Debug\net8.0\5.Duels.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Duels\obj\Debug\net8.0\5.Duels.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Duels\obj\Debug\net8.0\refint\5.Duels.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Duels\obj\Debug\net8.0\5.Duels.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Duels\obj\Debug\net8.0\5.Duels.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Duels\obj\Debug\net8.0\ref\5.Duels.dll

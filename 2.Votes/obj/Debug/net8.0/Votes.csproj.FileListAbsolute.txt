@@ -1,0 +1,14 @@
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Votes\bin\Debug\net8.0\Votes.exe
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Votes\bin\Debug\net8.0\Votes.deps.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Votes\bin\Debug\net8.0\Votes.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Votes\bin\Debug\net8.0\Votes.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Votes\bin\Debug\net8.0\Votes.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Votes\obj\Debug\net8.0\Votes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Votes\obj\Debug\net8.0\Votes.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Votes\obj\Debug\net8.0\Votes.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Votes\obj\Debug\net8.0\Votes.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Votes\obj\Debug\net8.0\Votes.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Votes\obj\Debug\net8.0\refint\Votes.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Votes\obj\Debug\net8.0\Votes.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Votes\obj\Debug\net8.0\Votes.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\Votes\obj\Debug\net8.0\ref\Votes.dll

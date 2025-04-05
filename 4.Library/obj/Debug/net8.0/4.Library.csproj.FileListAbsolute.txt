@@ -1,0 +1,14 @@
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\4.Library\bin\Debug\net8.0\4.Library.exe
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\4.Library\bin\Debug\net8.0\4.Library.deps.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\4.Library\bin\Debug\net8.0\4.Library.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\4.Library\bin\Debug\net8.0\4.Library.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\4.Library\bin\Debug\net8.0\4.Library.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\4.Library\obj\Debug\net8.0\4.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\4.Library\obj\Debug\net8.0\4.Library.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\4.Library\obj\Debug\net8.0\4.Library.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\4.Library\obj\Debug\net8.0\4.Library.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\4.Library\obj\Debug\net8.0\4.Library.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\4.Library\obj\Debug\net8.0\refint\4.Library.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\4.Library\obj\Debug\net8.0\4.Library.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\4.Library\obj\Debug\net8.0\4.Library.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\4.Library\obj\Debug\net8.0\ref\4.Library.dll

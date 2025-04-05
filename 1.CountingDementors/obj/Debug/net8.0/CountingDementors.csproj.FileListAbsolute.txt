@@ -1,0 +1,14 @@
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CountingDementors\bin\Debug\net8.0\CountingDementors.exe
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CountingDementors\bin\Debug\net8.0\CountingDementors.deps.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CountingDementors\bin\Debug\net8.0\CountingDementors.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CountingDementors\bin\Debug\net8.0\CountingDementors.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CountingDementors\bin\Debug\net8.0\CountingDementors.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CountingDementors\obj\Debug\net8.0\CountingDementors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CountingDementors\obj\Debug\net8.0\CountingDementors.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CountingDementors\obj\Debug\net8.0\CountingDementors.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CountingDementors\obj\Debug\net8.0\CountingDementors.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CountingDementors\obj\Debug\net8.0\CountingDementors.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CountingDementors\obj\Debug\net8.0\refint\CountingDementors.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CountingDementors\obj\Debug\net8.0\CountingDementors.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CountingDementors\obj\Debug\net8.0\CountingDementors.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CountingDementors\obj\Debug\net8.0\ref\CountingDementors.dll

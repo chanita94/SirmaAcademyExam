@@ -1,0 +1,14 @@
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\AurorBattle\bin\Debug\net8.0\6.AurorBattle.exe
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\AurorBattle\bin\Debug\net8.0\6.AurorBattle.deps.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\AurorBattle\bin\Debug\net8.0\6.AurorBattle.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\AurorBattle\bin\Debug\net8.0\6.AurorBattle.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\AurorBattle\bin\Debug\net8.0\6.AurorBattle.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\AurorBattle\obj\Debug\net8.0\6.AurorBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\AurorBattle\obj\Debug\net8.0\6.AurorBattle.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\AurorBattle\obj\Debug\net8.0\6.AurorBattle.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\AurorBattle\obj\Debug\net8.0\6.AurorBattle.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\AurorBattle\obj\Debug\net8.0\6.AurorBattle.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\AurorBattle\obj\Debug\net8.0\refint\6.AurorBattle.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\AurorBattle\obj\Debug\net8.0\6.AurorBattle.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\AurorBattle\obj\Debug\net8.0\6.AurorBattle.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\AurorBattle\obj\Debug\net8.0\ref\6.AurorBattle.dll

@@ -1,0 +1,14 @@
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CodeCipher\bin\Debug\net8.0\3.CodeCipher.exe
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CodeCipher\bin\Debug\net8.0\3.CodeCipher.deps.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CodeCipher\bin\Debug\net8.0\3.CodeCipher.runtimeconfig.json
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CodeCipher\bin\Debug\net8.0\3.CodeCipher.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CodeCipher\bin\Debug\net8.0\3.CodeCipher.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CodeCipher\obj\Debug\net8.0\3.CodeCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CodeCipher\obj\Debug\net8.0\3.CodeCipher.AssemblyInfoInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CodeCipher\obj\Debug\net8.0\3.CodeCipher.AssemblyInfo.cs
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CodeCipher\obj\Debug\net8.0\3.CodeCipher.csproj.CoreCompileInputs.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CodeCipher\obj\Debug\net8.0\3.CodeCipher.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CodeCipher\obj\Debug\net8.0\refint\3.CodeCipher.dll
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CodeCipher\obj\Debug\net8.0\3.CodeCipher.pdb
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CodeCipher\obj\Debug\net8.0\3.CodeCipher.genruntimeconfig.cache
+C:\Users\Chani\OneDrive\Desktop\sirma academy\c#\exam\CodeCipher\obj\Debug\net8.0\ref\3.CodeCipher.dll
